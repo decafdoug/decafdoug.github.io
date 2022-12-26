@@ -1,5 +1,5 @@
 ---
-title:  "Advanced examples"
+title:  "The Broiler"
 mathjax: true
 layout: post
 categories: media
