@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-![Broiler](/images/broiler.JPG)
+![Broiler](/assets/images/broiler.JPG)
 
 
 ## The Broiler
