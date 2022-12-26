@@ -1,6 +1,6 @@
 ---
 title:  "The Broiler"
-mathjax: true
+mathjax: false
 layout: post
 categories: media
 ---
